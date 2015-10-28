@@ -1,0 +1,7 @@
+cash_homepage:
+    path:     /
+    defaults: { _controller: CashBundle:Default:index }
+
+cash_result:
+    path:     /result
+    defaults: { _controller: CashBundle:Default:result }
